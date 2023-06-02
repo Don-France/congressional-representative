@@ -1,0 +1,30 @@
+.pageHeader {
+    text-align: center
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+
+
+
+
+
+
+
+
+}
+
+.shop {
+
+    flex-basis: 33%;
+    border: 1px solid red;
+    /* padding: 1em; */
+    /* margin: 0.5em; */
+
+
+
+
+}
